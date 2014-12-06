@@ -1,3 +1,4 @@
+
 Publikacja nr 1
 
 Tytul: Publikacja o fizyce
@@ -9,8 +10,12 @@ Do napisania pozniej
 Dane:
 Nasze wspolne dane
 
-Analiza
+Analiza:
 
-Wnioski
+
+Wnioski:
 (to napisze Janek)  
-Bibliografia
+
+
+Bibliografia:
+
